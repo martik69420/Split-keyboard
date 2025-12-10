@@ -1,6 +1,62 @@
-name: Build ZMK firmware
-on: [push, pull_request, workflow_dispatch]
+name: Build Firmware
+
+on:
+  push:
+  workflow_dispatch:
 
 jobs:
   build:
-    uses: zmkfirmware/zmk/.github/workflows/build-user-config.yml@main
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout user config
+        uses: actions/checkout@v4
+
+      - name: Checkout ZMK
+        uses: actions/checkout@v4
+        with:
+          repository: zmkfirmware/zmk
+          ref: main
+          path: zmk
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install west
+        run: |
+          python -m pip install --upgrade pip
+          pip install west
+
+      - name: West init/update
+        run: |
+          cd zmk
+          west init -l ../
+          west update
+          west zephyr-export
+
+      - name: Install Zephyr deps
+        run: |
+          pip install -r zmk/zephyr/scripts/requirements.txt
+
+      - name: Build left
+        run: |
+          cd zmk
+          west build -s app -d build_left -b nice_nano_v2 -- -DSHIELD=caldera_left
+
+      - name: Build right
+        run: |
+          cd zmk
+          west build -s app -d build_right -b nice_nano_v2 -- -DSHIELD=caldera_right
+
+      - name: Collect firmware
+        run: |
+          mkdir -p firmware
+          cp zmk/build_left/zephyr/zmk.uf2 firmware/left.uf2
+          cp zmk/build_right/zephyr/zmk.uf2 firmware/right.uf2
+
+      - name: Upload firmware
+        uses: actions/upload-artifact@v4
+        with:
+          name: firmware
+          path: firmware
