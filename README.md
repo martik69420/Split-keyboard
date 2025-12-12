@@ -7,12 +7,12 @@ All images are in `/images`.
 
 ---
 
-## Finished Keyboard
+## Ergogen
 
-Short look at the final build.
+Here is a look at the key placement and the layout in ergogen.
 
-![assembled keyboard](/images/assembled.jpg)
-![both halves](/images/both_halves.jpg)
+![key placement](/images/ERGOGEN_SWITCHES.png)
+![layout](/images/ERGOGEN_LAYOUT.png)
 
 ---
 
@@ -31,8 +31,11 @@ The PCB is generated from the Ergogen config and then cleaned up in KiCad.
 It includes the key matrix, diodes, **nice!nano** footprint, battery connector,  
 power switch and reset switch.
 
-![pcb top](/images/pcb_top.png)  
-![pcb 3d view](/images/pcb_3d.png)
+![Unfinished left side PCB](/images/LEFT_PCB_UNFINISHED.png)  
+![Finished left side PCB](/images/LEFT_PCB_FINISHED.png)
+
+![Unfinished right side PCB](/images/RIGHT_PCB_UNFINISHED.png)  
+![Finished right side PCB](/images/RIGHT_PCB_FINISHED.png)  
 
 ---
 
