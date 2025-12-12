@@ -10,7 +10,7 @@ All images are in `/images`.
 ## Credits (Original Inspiration)
 
 This project is heavily inspired by Christian Selig’s Caldera build.  
-Original video: ADD LINK HERE
+Original video: [https://www.youtube.com/watch?v=7UXsD7nSfDY]([url](https://www.youtube.com/watch?v=7UXsD7nSfDY))
 
 ---
 
@@ -23,6 +23,8 @@ Here is a look at the key placement and layout generated with Ergogen.
 
 ### Ergogen config
 The Ergogen config used for this project is included in this repo.
+
+![Ergogen files](/ergogen) 
 
 ---
 
