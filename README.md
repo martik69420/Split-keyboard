@@ -21,7 +21,7 @@ Short look at the final build.
 The case is a low-profile shell that holds the PCB, plate, and standoffs.  
 I designed it from the Ergogen outlines and exported it to CAD for 3D printing.
 
-![case render](/images/cad_case.png)
+![case render](/images/Screenshot 2025-12-09 9.36.28 PM.png)
 
 ---
 
