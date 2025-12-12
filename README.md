@@ -21,7 +21,7 @@ Here is a look at the key placement and the layout in ergogen.
 The case is a low-profile shell that holds the PCB, plate, and standoffs.  
 I designed it from the Ergogen outlines and exported it to CAD for 3D printing.
 
-![case render](/images/Screenshot2025-12-099.36.28PM.png)
+![case](/images/case.png)
 
 ---
 
@@ -39,21 +39,14 @@ power switch and reset switch.
 
 ---
 
-## Schematic
-
-The schematic is split into a matrix section and a power / controller section.  
-Each key goes: **switch → diode → row**, with columns going to the MCU pins.  
-Power section connects the LiPo, JST jack, power switch, and the nice!nano.
-
-![schematic overview](/images/schematic.png)
-
----
-
 ## Parts List
 
 Main parts used in this build.
 
-![parts layout](/images/parts.jpg)
+![parts layout: 1](/images/materials1.png)
+![parts layout: 2](/images/materials2.png)
+![parts layout: 3](/images/materials3.png)
+![battery](/images/lithium_battery.png)
 
 - **2× nice!nano (or nice!nano v2)**
 - **Choc switches** – one per key
