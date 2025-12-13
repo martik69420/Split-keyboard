@@ -10,7 +10,7 @@ All images are in `/images`.
 ## Credits (Original Inspiration)
 
 This project is heavily inspired by Christian Selig’s Caldera build.  
-Original video: [https://www.youtube.com/watch?v=7UXsD7nSfDY]([url](https://www.youtube.com/watch?v=7UXsD7nSfDY))
+Original video: [https://www.youtube.com/watch?v=7UXsD7nSfDY](https://www.youtube.com/watch?v=7UXsD7nSfDY)
 
 ---
 
@@ -65,7 +65,7 @@ Main parts used in this build.
 
 ![parts layout 1](/images/materials1.png)  
 ![parts layout 2](/images/materials2.png)  
-![parts layout 3](/images/materials3.png)  
+![parts layout 3](/images/materials3.png) 
 ![battery](/images/lithium_battery.png)
 
 - **2× nice!nano (or nice!nano v2)**
@@ -77,7 +77,7 @@ Main parts used in this build.
 - **Power switch** and **reset switches**
 
 All materials from
-   [https://typeractive.xyz/]([url](https://typeractive.xyz/))
+   [https://typeractive.xyz](https://typeractive.xyz)
 except the lithium ion battery
    [aliexpress link](https://nl.aliexpress.com/item/1005005213892382.html?spm=a2g0o.cart.0.0.23e061d7xbi5uM&mp=1&pdp_npi=5%40dis%21EUR%21EUR%2014.09%21EUR%204.68%21%21EUR%204.68%21%21%21%40211b655217656172436378542e3ce8%2112000033329836828%21ct%21BE%21-1%21%211%210&gatewayAdapt=glo2nld)
 ---
