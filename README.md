@@ -14,6 +14,12 @@ Original video: [https://www.youtube.com/watch?v=7UXsD7nSfDY](https://www.youtub
 
 ---
 
+## Finished project preview
+
+![Preview Image](/images/preview_image.png)  
+
+---
+
 ## Ergogen
 
 Here is a look at the key placement and layout generated with Ergogen.
