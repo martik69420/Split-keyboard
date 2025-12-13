@@ -68,13 +68,19 @@ Main parts used in this build.
 ![parts layout 3](/images/materials3.png) 
 ![battery](/images/lithium_battery.png)
 
-- **2× nice!nano (or nice!nano v2)**
-- **Choc switches** – one per key
-- **Keycaps** for Choc switches
-- **Diodes** – one per switch (through-hole or SMD)
-- **LiPo battery** (per side if wireless)
-- **JST battery connector**
+- **2× nice!nano v2**
+- **3×10 Choc switches**
+- **3×10 Keycaps** for each Choc switch
+- **3×10 Diodes** – one per switch
+- **2× LiPo battery** (per side)
+- **1×2 battery Jack**
+- **Kailh Hotswap Sockets**
 - **Power switch** and **reset switches**
+Price: €86.20
+Shipping €4.95
+Total: €91.15
+Total price (battery included): €96.98
+
 
 All materials from
    [https://typeractive.xyz](https://typeractive.xyz)
