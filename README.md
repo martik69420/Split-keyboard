@@ -136,9 +136,11 @@ Verify continuity and check for shorts.
 
 ZMK configuration is included in `zmk-config-caldera`.
 
-Shields:
-- **caldera_left**
-- **caldera_right**
+named:
+- **left.uf2**
+- **right.uf2**
+
+With gerber files included.
 
 Build commands:
 
