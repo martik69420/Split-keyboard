@@ -42,14 +42,6 @@ power switch, and reset switch.
 
 ---
 
-## Schematic
-
-Complete schematic showing matrix wiring, controller connections, and power section.
-
-![schematic](/images/SCHEMATIC.png)
-
----
-
 ## CAD / Case
 
 The case is a low-profile shell that holds the PCB, plate, and standoffs.  
