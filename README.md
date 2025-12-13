@@ -79,7 +79,7 @@ Main parts used in this build.
 All materials from
    [https://typeractive.xyz/]([url](https://typeractive.xyz/))
 except the lithium ion battery
-   [https://nl.aliexpress.com/item/1005005213892382.html?spm=a2g0o.cart.0.0.23e061d7xbi5uM&mp=1&pdp_npi=5%40dis%21EUR%21EUR%2014.09%21EUR%204.68%21%21EUR%204.68%21%21%21%40211b655217656172436378542e3ce8%2112000033329836828%21ct%21BE%21-1%21%211%210&gatewayAdapt=glo2nld](https://nl.aliexpress.com/item/1005005213892382.html?spm=a2g0o.cart.0.0.23e061d7xbi5uM&mp=1&pdp_npi=5%40dis%21EUR%21EUR%2014.09%21EUR%204.68%21%21EUR%204.68%21%21%21%40211b655217656172436378542e3ce8%2112000033329836828%21ct%21BE%21-1%21%211%210&gatewayAdapt=glo2nld)
+   [aliexpress link](https://nl.aliexpress.com/item/1005005213892382.html?spm=a2g0o.cart.0.0.23e061d7xbi5uM&mp=1&pdp_npi=5%40dis%21EUR%21EUR%2014.09%21EUR%204.68%21%21EUR%204.68%21%21%21%40211b655217656172436378542e3ce8%2112000033329836828%21ct%21BE%21-1%21%211%210&gatewayAdapt=glo2nld)
 ---
 
 ## Full Build Walkthrough
