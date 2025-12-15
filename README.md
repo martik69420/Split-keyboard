@@ -16,7 +16,10 @@ Original video: [https://www.youtube.com/watch?v=7UXsD7nSfDY](https://www.youtub
 
 ## Finished project preview
 
-![Preview Image](/images/preview_image.png)  
+![Preview Image1](/images/preview_image.png) 
+![Preview Image](/images/preview_image2.png) 
+![Preview Image](/images/preview_image3.png) 
+![Preview Image](/images/preview_image4.png) 
 
 ---
 
