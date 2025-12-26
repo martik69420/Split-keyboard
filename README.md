@@ -70,17 +70,15 @@ Main parts used in this build.
 ![battery](/images/lithium_battery.png)
 
 - **2× nice!nano v2**
-- **3×10 Choc switches**
-- **3×10 Keycaps** for each Choc switch
-- **3×10 Diodes** – one per switch
+- **6×10 Choc switches**
+- **6×10 Keycaps** for each Choc switch
+- **6×10 Diodes** – one per switch
 - **2× LiPo battery** (per side)
 - **1×2 battery Jack**
 - **Kailh Hotswap Sockets**
 - **Power switch** and **reset switches**
-Price: €86.20
-Shipping €4.95
-Total: €91.15
-Total price (battery included): €96.98
+
+Total Price: €127,09
 
 
 All materials from
